@@ -1,0 +1,275 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 595 842]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2850
+>>
+stream
+BT
+/F2 24 Tf
+50 750 Td
+(PINgpt Pinbelegungs-Report) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(Automatisierte Berechnung der Pingroessen und Leitungsquerschnitte) Tj
+ET
+
+BT
+/F2 14 Tf
+50 680 Td
+(Zusammenfassung) Tj
+ET
+
+BT
+/F1 10 Tf
+50 660 Td
+(Gesamte Pins: 5) Tj
+ET
+
+BT
+/F1 10 Tf
+50 645 Td
+(Gesamtstrom: 52.0A) Tj
+ET
+
+BT
+/F1 10 Tf
+50 630 Td
+(Max. Spannungsfall: 0.01%) Tj
+ET
+
+BT
+/F1 10 Tf
+50 615 Td
+(Erfolgreiche Berechnungen: 5/5) Tj
+ET
+
+BT
+/F2 14 Tf
+50 570 Td
+(Pinbelegungs-Tabelle) Tj
+ET
+
+% Table Header
+BT
+/F2 10 Tf
+50 550 Td
+(Pin) Tj
+100 550 Td
+(Beschreibung) Tj
+200 550 Td
+(Strom) Tj
+280 550 Td
+(Pin-Groesse) Tj
+380 550 Td
+(Querschnitt) Tj
+480 550 Td
+(Status) Tj
+ET
+
+% Table Line
+50 545 m
+500 545 l
+S
+
+% Row 1
+BT
+/F1 9 Tf
+50 530 Td
+(1) Tj
+100 530 Td
+(Motor 1) Tj
+200 530 Td
+(5A) Tj
+280 530 Td
+(1.0mm) Tj
+380 530 Td
+(1.0mm2) Tj
+480 530 Td
+(OK) Tj
+ET
+
+% Row 2
+BT
+/F1 9 Tf
+50 515 Td
+(2) Tj
+100 515 Td
+(Motor 2) Tj
+200 515 Td
+(10A) Tj
+280 515 Td
+(2.0mm) Tj
+380 515 Td
+(2.5mm2) Tj
+480 515 Td
+(OK) Tj
+ET
+
+% Row 3
+BT
+/F1 9 Tf
+50 500 Td
+(3) Tj
+100 500 Td
+(Magnetventil) Tj
+200 500 Td
+(15A) Tj
+280 500 Td
+(2.0mm) Tj
+380 500 Td
+(2.5mm2) Tj
+480 500 Td
+(OK) Tj
+ET
+
+% Row 4
+BT
+/F1 9 Tf
+50 485 Td
+(4) Tj
+100 485 Td
+(Sensor) Tj
+200 485 Td
+(2A) Tj
+280 485 Td
+(0.5mm) Tj
+380 485 Td
+(0.5mm2) Tj
+480 485 Td
+(OK) Tj
+ET
+
+% Row 5
+BT
+/F1 9 Tf
+50 470 Td
+(5) Tj
+100 470 Td
+(Hauptkontaktor) Tj
+200 470 Td
+(20A) Tj
+280 470 Td
+(2.5mm) Tj
+380 470 Td
+(4.0mm2) Tj
+480 470 Td
+(OK) Tj
+ET
+
+% Notes
+BT
+/F2 14 Tf
+50 420 Td
+(Hinweise) Tj
+ET
+
+BT
+/F1 9 Tf
+50 400 Td
+(Berechnungsgrundlagen:) Tj
+ET
+
+BT
+/F1 8 Tf
+50 385 Td
+(- Normen: DIN 46217 \(Strombelastbarkeit von Kupferleitungen\)) Tj
+ET
+
+BT
+/F1 8 Tf
+50 373 Td
+(- Material: Kupferleiter \(20 Grad C\)) Tj
+ET
+
+BT
+/F1 8 Tf
+50 361 Td
+(- Sicherheitsfaktor: 1.25x auf Nenntrom) Tj
+ET
+
+BT
+/F1 8 Tf
+50 349 Td
+(- Max. zulaessiger Spannungsfall: 3%) Tj
+ET
+
+BT
+/F1 8 Tf
+50 330 Td
+(Wichtig: Die berechneten Werte sind Empfehlungen und sollten vor der) Tj
+ET
+
+BT
+/F1 8 Tf
+50 318 Td
+(praktischen Verwendung durch einen Elektrofachmann ueberprueft werden.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000273 00000 n 
+0000003173 00000 n 
+0000003254 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3335
+%%EOF
